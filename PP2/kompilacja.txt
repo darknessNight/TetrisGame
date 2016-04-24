@@ -1,0 +1,1 @@
+Pe³ny kod Ÿród³owy jest zawarty w archiwum, oddzielnie nale¿y do³¹czyæ bibliteki SDL (domyœlne folder nadrzêdny w stosunku do folderu z kodem tzn: ../SDL/*)
